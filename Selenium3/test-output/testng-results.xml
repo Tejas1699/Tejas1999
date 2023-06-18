@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Before Suite]]>
+    </line>
+    <line>
+      <![CDATA[Before Test]]>
+    </line>
+    <line>
+      <![CDATA[Before Class]]>
+    </line>
+    <line>
+      <![CDATA[Before method]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before method]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before method]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before method]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before method]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before method]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[After Class]]>
+    </line>
+    <line>
+      <![CDATA[After Test]]>
+    </line>
+    <line>
+      <![CDATA[After Suite]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-17T20:23:31 IST" name="Suite" finished-at="2023-06-17T20:23:31 IST" duration-ms="115">
+    <groups>
+    </groups>
+    <test started-at="2023-06-17T20:23:31 IST" name="Test1" finished-at="2023-06-17T20:23:31 IST" duration-ms="115">
+      <class name="TestNG.GroupExe">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeSuite" finished-at="2023-06-17T20:23:31 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeTest" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeClass" finished-at="2023-06-17T20:23:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="AdminLogin()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="AdminLogin" finished-at="2023-06-17T20:23:31 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="AdminReg()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="AdminReg" finished-at="2023-06-17T20:23:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminReg -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MerLogin()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="MerLogin" finished-at="2023-06-17T20:23:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MerLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MerReg()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="MerReg" finished-at="2023-06-17T20:23:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MerReg -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="UserLogin()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="UserLogin" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="UserReg()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="UserReg" finished-at="2023-06-17T20:23:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserReg -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="beforeMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterMethod" finished-at="2023-06-17T20:23:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterClass" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Class]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterTest" finished-at="2023-06-17T20:23:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:TestNG.GroupExe@306f16f3]" started-at="2023-06-17T20:23:31 IST" name="afterSuite" finished-at="2023-06-17T20:23:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After Suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestNG.GroupExe -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
